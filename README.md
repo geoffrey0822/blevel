@@ -52,6 +52,7 @@ ___
 | AlexNet    | Yes        | Given      | 66.71%                  | 80.5%                | 71.1%                   | 75.91%          |
 | ResNet-110 | No         | Given      | 72.3%                   | 90.8%                | 78.4%                   | 78.4%           |
 | DenseNet   | No         | Given      | 76.21%                  | 95.7%                | 80.36%                  | 80.36%          |
+
 *Table 4. Test result for CiFar-100 Dataset*
 
 ___

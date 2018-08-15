@@ -36,6 +36,12 @@ ___
     - AlexNet-bilevel: https://drive.google.com/open?id=12nJDw_KJ8fxVJoyx9p5UyvwDMipi9g98
     - GoogLeNet-bilevel: https://drive.google.com/open?id=1op67qlPvL6vVAOY54ILPhRZxeEjFSDDy
 
+- Datasets:
+    - 20-gesture: https://drive.google.com/open?id=1RakHQG5IHa7aySOfQc5lYGYcI08zMdnH
+
+    - 28-gesture:
+    https://drive.google.com/open?id=1RakHQG5IHa7aySOfQc5lYGYcI08zMdnH
+
 | Models    | Pretrained | Grouped by    | Top-1 for single branch | Top-1 for Top branch | Top-1 for Bottom branch | Top-1 for fused |
 |-----------|------------|---------------|-------------------------|----------------------|-------------------------|-----------------|
 | AlexNet   | No         | Less Confused | 59.87%                  | 62.6%                | 58.7%                   | 58.7%           |

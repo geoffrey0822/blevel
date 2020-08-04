@@ -36,5 +36,5 @@ ___
 ### 4. Publications
 ___
 
-### Pytorch Implimentation 
+### Pytorch Implementation 
 1. Please refer to https://github.com/geoffrey0822/HTNN
